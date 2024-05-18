@@ -8,5 +8,3 @@ if (button && input) {
         getMessage(input.value);
     });
 }
-
-// console.log(getMessage()); // Hello World!
